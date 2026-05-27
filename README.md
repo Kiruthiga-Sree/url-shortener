@@ -43,7 +43,9 @@ REACT_APP_API_URL=http://localhost:5000
    <img width="1913" height="1077" alt="Screenshot 2026-05-27 203422" src="https://github.com/user-attachments/assets/ee5e4668-b1db-4f59-bbab-2daa22ba082b" />
 ##  Demo Video
    https://youtu.be/rlICUrtKDpc?si=3-yMqm8-YkOaSmAM
+   
 ## Hackathon
+
 This project is a part of a hackathon run by 
 [Katomaran](https://www.katomaran.com/)
 
